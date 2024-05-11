@@ -50,7 +50,9 @@ Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e 
 
 ## ⭐ Destaque do Projeto
 
-[![Salão de Beleza App](https://img.icons8.com/material-rounded/24/000000/nail-polish.png)](https://github.com/CarolShiny/SB-SpaceX.git)
+[![Salão de Beleza App](https://github.com/CarolShiny/SB-SpaceX.git)
+
+
 
 Um aplicativo de gerenciamento de agendamento para salões de beleza, desenvolvido com Kotlin no Android Studio.
 
