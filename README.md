@@ -2,7 +2,9 @@
 
 Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e escaláveis para diversos desafios. Sou estudante da Universidade Federal da Paraíba (UFPB). Sempre busco aprimorar minhas habilidades e aprender mais da área de TI.
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolShiny&bg_color=000000&langs_count_color=ff69b4)](https://github.com/CarolShiny)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolShiny&bg_color=000000&langs_count_color=ff69b4" alt="Linguagens mais usadas">
+</p>
 
 ## 📚 Educação
 
@@ -30,8 +32,8 @@ Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e 
 </p>
 
 - Linguagens de Programação: Kotlin, Java, Python, HTML, CSS, SQL, Firebase
-<p align="center">
-  <b>Minha habilidade principal:</b><br>
+- Minha habilidade principal:
+<p align="center">  
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="48" height="48"/><br>
   Kotlin
 </p>
@@ -41,16 +43,17 @@ Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e 
 
 <div align="center">
   <a href="caroline.castro958@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-%20-orange?style=for-the-badge&logo=gmail" alt="E-mail">
+    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>    
   </a>
   <a href="https://www.linkedin.com/in/carolinecastro8b">
-    <img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
+
 ## ⭐ Destaque do Projeto
 
-[![Salão de Beleza App](https://github.com/CarolShiny/SB-SpaceX.git)
+[Salão de Beleza App](https://github.com/CarolShiny/SB-SpaceX.git)
 
 
 
