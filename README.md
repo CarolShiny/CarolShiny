@@ -1,8 +1,9 @@
 [🇺🇸](https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md)
 
 <p align="center">
- <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">🇺🇸</a>
+ <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">🇺🇸</a> / 🇧🇷 (You are here!)
 </p>
+
 
 ## Olá, eu sou Caroline de Castro! 👋
 
