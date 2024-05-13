@@ -1,25 +1,25 @@
-# Olá, eu sou Caroline de Castro! 👋
+# Hey There! I'm Caroline! 👋
 
-Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e escaláveis para diversos desafios. Sou estudante da Universidade Federal da Paraíba (UFPB). Sempre busco aprimorar minhas habilidades e aprender mais da área de TI.
+I am a software developer passionate about creating innovative and scalable solutions for various challenges. I am a student at the Federal University of Paraíba (UFPB). I always seek to improve my skills and learn more about the IT area.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolShiny&bg_color=000000&langs_count_color=ff69b4" alt="Linguagens mais usadas">
 </p>
 
-## 📚 Educação
+## 📚 Education
 
-- **Nome da Instituição:** Universidade Federal da Paraíba
-- **Curso:** Ciência da Computação
-- **Período:** 2019 - 2024
+*📄 Computer Science\
+*📅 2019 - 2024 (Expected Completion)\
+*🏫 Federal University of Paraíba (UFPB) - Rio Tinto, Brazil
 
-## 💬 Sobre Mim
+## 💬 About Me:
 
-- Gosto de desenvolver aplicativos mobile.
-- Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de aplicativos Android.
-- Estou interessada em colaborar em projetos de código aberto nesta plataforma.
-- Amo ler, jogar e animais.
+- I like developing mobile applications.
+- I am currently improving my knowledge in Android application development.
+- I am interested in collaborating on open source projects on this platform.
+- I love reading, playing games and animals.
 
-## 🔧 Habilidades e Tecnologias
+## 🔧 Skills and Technologies
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="48" height="48"/>
@@ -31,15 +31,15 @@ Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e 
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48"/>
 </p>
 
-- Linguagens de Programação: Kotlin, Java, Python, HTML, CSS, SQL, Firebase
-- Minha habilidade principal:
+- Programming languages: Kotlin, Java, Python, HTML, CSS, SQL, Firebase
+- My main skill:
 <p align="center">  
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="48" height="48"/><br>
   Kotlin
 </p>
 
 
-## 🚀 Como me Encontrar
+## 🚀 Would you like to contact me?
 
 <div align="center">
   <a href="caroline.castro958@gmail.com">
@@ -51,13 +51,12 @@ Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e 
 </div>
 
 
-## ⭐ Destaque do Projeto
+## ⭐ Featured Projects:
 
 [Salão de Beleza App](https://github.com/CarolShiny/SB-SpaceX.git)
 
 
-
-Um aplicativo de gerenciamento de agendamento para salões de beleza, desenvolvido com Kotlin no Android Studio.
+An appointment management app for beauty salons, built with Kotlin in Android Studio.
 
 
 
