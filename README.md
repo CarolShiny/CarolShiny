@@ -16,7 +16,7 @@ Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e 
 
 - Gosto de desenvolver aplicativos mobile.
 - Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de aplicativos Android.
-- Estou interessado(a) em colaborar em projetos de código aberto nesta plataforma.
+- Estou interessada em colaborar em projetos de código aberto nesta plataforma.
 - Amo ler, jogar e animais.
 
 ## 🔧 Habilidades e Tecnologias
