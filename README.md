@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">🇺🇸</a>
 </p>
-# Olá, eu sou Caroline de Castro! 👋
+## Olá, eu sou Caroline de Castro! 👋
 
 Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras e escaláveis para diversos desafios. Sou estudante da Universidade Federal da Paraíba (UFPB). Sempre busco aprimorar minhas habilidades e aprender mais da área de TI.
 
