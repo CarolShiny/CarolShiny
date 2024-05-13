@@ -1,3 +1,7 @@
+<p align="center">
+ <a href="https://github.com/CarolShiny/CarolShiny/blob/main/README.md">🇧🇷 </a> / 🇺🇸 (You are here!)
+</p>
+
 # Hey There! I'm Caroline! 👋
 
 I am a software developer passionate about creating innovative and scalable solutions for various challenges. I am a student at the Federal University of Paraíba (UFPB). I always seek to improve my skills and learn more about the IT area.
