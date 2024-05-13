@@ -1,7 +1,7 @@
 [🇺🇸](https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md)
 
 <p align="center">
- <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">🇺🇸</a> / 🇧🇷 (You are here!)
+ <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">🇺🇸</a> / 🇧🇷 (Você está aqui!)
 </p>
 
 
