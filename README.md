@@ -1,7 +1,29 @@
 
-<p align="center">
- <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">🇺🇸</a> / 🇧🇷 (Você está aqui!)
-</p>
+
+
+<div align="center">
+  <table>
+    <tr>
+        <td>
+            <a href="https://github.com/CarolShiny/CarolShiny/blob/main-en/README.md">
+                <img src="flags/1x1/us.svg" alt="US Flag" width="32" height="32">
+            </a>
+        </td>
+        <td>
+            ⇌
+        </td>
+        <td>
+           <a href="https://github.com/CarolShiny/CarolShiny/blob/main/README.md">
+                <img src="flags/1x1/br.svg" alt="BR Flag" width="32" height="32">
+           </a>
+        </td>
+        <td>
+            ⇒ Você está aqui!
+        </td>
+    </tr>
+</table>
+</div>
+
 
 
 ## Olá, eu sou Caroline de Castro! 👋
